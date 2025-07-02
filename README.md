@@ -7,3 +7,9 @@ Part of "Software Engineering" exam at Politecnico di Torino. Allowed me to expe
 - Back-end development in a 4-people team
 - Wrote unit and integration tests for the “review” subsystem of the eshop
 - Learnt to deal with the software production process in each of its phase
+
+## Team
+- [Alberto Cagnazzo](https://github.com/LienoPC)
+- Diego Da Giau
+- Lorenzo Ricci
+- Paola Verrone
